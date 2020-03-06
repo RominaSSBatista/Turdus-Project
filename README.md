@@ -100,6 +100,8 @@ We would like to thank the many institutions that provided tissue loans for this
 
 * The authors acknowledge support from [Science for Life Laboratory](https://www.scilifelab.se/), the Knut and Alice Wallenberg Foundation, the National Genomics Infrastructure funded by the Swedish Research Council [NGI](https://www.scilifelab.se/platforms/ngi/), and Uppsala Multidisciplinary Center for Advanced Computational Science for assistance with massively parallel sequencing (alternatively genotyping) and access to [Uppmax](https://www.scilifelab.se/facilities/uppnex/) computational infrastructure. 
 
+* The authors acknowledge the National Laboratory for Scientific Computing (LNCC/MCTI, Brazil) for providing HPC resources of the SDumont supercomputer, which have contributed to the research results reported within this paper. [URL] (http://sdumont.lncc.br)
+
 * We also would like to thank [Mats Töpel](http://matstopel.se/), for his support with bioinformatics computer cluster [Albiorix](http://albiorix.bioenv.gu.se/) at the Department of Biological and Environmental Sciences, University of Gothenburg and his constructive advice that greatly helped to improve this repository and data process.
 
 ---
