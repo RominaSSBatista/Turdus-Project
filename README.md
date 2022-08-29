@@ -55,11 +55,11 @@ Here, we sequenced ~2,386 UCEs loci and 108 loci well known and used in previous
 
 *	Romina Batista took care of WetLab at [Gothenburg University](http://bioenv.gu.se): DNA extraction, Library Preparation, Target enrichment and preparation to sent to Sequencing using [Science for Life Laboratory -SciLifeLab](https://ngisweden.scilifelab.se/). 
 
-*	Romina Batista built this repository. ... working in progress ... :soon:
+*	Romina Batista built this repository. 
 
-*	Romina Batista is analysing the data, and leading manuscript preparation. ... working in progress ... :soon:
+*	Romina Batista analyzed the data, and lead manuscript preparation. 
 
-*	All collaborators are involved in discussions, and interpreting results.
+*	All collaborators were involved in discussions, and interpreting results.
 
 ---
 
